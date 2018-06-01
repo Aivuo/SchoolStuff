@@ -1,0 +1,8 @@
+﻿@model IEnumerable<SchoolStuff.Models.Student>
+
+@foreach (var item in Model)
+{
+    <h4>@item.LastName , @item.FirstName</h4>
+    <hr />
+}
+

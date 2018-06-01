@@ -1,0 +1,8 @@
+﻿@model IEnumerable<SchoolStuff.Models.Assignment>
+
+@foreach (var item in Model)
+{
+    <h4>@item.Subject</h4>
+    <div>@item.Body</div>
+}
+

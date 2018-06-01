@@ -1,0 +1,16 @@
+﻿@model IEnumerable<SchoolStuff.Models.Course>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@foreach (var item in Model)
+{
+    <h3>@item.CourseName</h3>
+    <div>@item.CourseSubject</div>
+    //Html.RenderAction("CourseAssignments", new { @item.CourseId });
+    Html.RenderAction("Students", new { @item.CourseId });
+    <hr />
+}
+
