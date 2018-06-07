@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lexicon\\source\\repos\\SchoolStuff\\DatabaseClasses\\DatabaseClasses.csproj",
+      "projectUniqueName": "C:\\Users\\Lexicon\\Desktop\\GitHub\\SchoolStuff\\DatabaseClasses\\DatabaseClasses.csproj",
       "projectName": "DatabaseClasses",
-      "projectPath": "C:\\Users\\Lexicon\\source\\repos\\SchoolStuff\\DatabaseClasses\\DatabaseClasses.csproj",
+      "projectPath": "C:\\Users\\Lexicon\\Desktop\\GitHub\\SchoolStuff\\DatabaseClasses\\DatabaseClasses.csproj",
       "packagesPath": "C:\\Users\\Lexicon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lexicon\\source\\repos\\SchoolStuff\\DatabaseClasses\\obj\\",
+      "outputPath": "C:\\Users\\Lexicon\\Desktop\\GitHub\\SchoolStuff\\DatabaseClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

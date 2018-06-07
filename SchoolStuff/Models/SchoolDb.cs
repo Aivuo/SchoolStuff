@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DatabaseClasses;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -8,9 +9,9 @@ namespace SchoolStuff.Models
 {
     public class SchoolDb : DbContext
     {
-        public DbSet<Student> Students { get; set; }
-        public DbSet<Teacher> Teachers { get; set; }
-        public DbSet<Course> Courses { get; set; }
-        public DbSet<Assignment> Assignments { get; set; }
+            public DbSet<Assignment> Assignments { get; set; }
+            public DbSet<Course> Courses { get; set; }
+            public DbSet<Student> Students { get; set; }
+            public DbSet<Teacher> Teachers { get; set; }
     }
 }

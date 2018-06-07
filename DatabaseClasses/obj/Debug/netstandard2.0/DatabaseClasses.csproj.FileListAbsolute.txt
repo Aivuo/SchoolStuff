@@ -1,0 +1,16 @@
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\DatabaseClasses.deps.json
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\DatabaseClasses.dll
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\obj\Debug\netstandard2.0\DatabaseClasses.csprojAssemblyReference.cache
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\obj\Debug\netstandard2.0\DatabaseClasses.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\obj\Debug\netstandard2.0\DatabaseClasses.AssemblyInfoInputs.cache
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\obj\Debug\netstandard2.0\DatabaseClasses.AssemblyInfo.cs
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\DatabaseClasses.pdb
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\obj\Debug\netstandard2.0\DatabaseClasses.dll
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\obj\Debug\netstandard2.0\DatabaseClasses.pdb
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Lexicon\Desktop\GitHub\SchoolStuff\DatabaseClasses\obj\Debug\netstandard2.0\DatabaseClasses.csproj.CopyComplete

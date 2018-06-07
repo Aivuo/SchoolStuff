@@ -12,4 +12,4 @@ namespace DatabaseClasses
         public List<Course> Courses { get; set; }
     }
 }
-}
+
